@@ -1,0 +1,31 @@
+body{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6G7X0OEhEMfCXEpBSkE_YTEsNCUEr8v05tTdjfQmpbziWdnAe1au-u3E&amp;s=10');
+  background-position-y:12px;
+}
+#b1{
+  height: 30px;
+  width: 75px;
+  background-color: red;
+  color: aliceblue;
+  border-radius: 10px;
+  border: none;
+}
+#rate{
+  color: red;
+}
+#h2{
+  font-family:Cursive;
+  font-size: 40px;
+  text-shadow: 0 0 40px gray;
+  color: aliceblue;
+}
+#p{
+  font-family:"Lucida Console", "Courier New", monospace;
+ color: aliceblue;
+}
+#doImg{
+  box-shadow:0 0 20px aliceblue;
+}
